@@ -31,6 +31,10 @@ github_username:  masgrebnesr
 theme: minima
 plugins:
   - jekyll-feed
+  
+header_files:
+  - about.md
+  - ninja.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
