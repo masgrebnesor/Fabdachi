@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   
-header_pages:
+default_paths:
   - /about.markdown
   - /ninja.html
 
