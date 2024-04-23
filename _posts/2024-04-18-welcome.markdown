@@ -6,12 +6,12 @@ categories: jekyll update
 ---
 Thank you for visiting fabdachi.com! I will be creating a number of different pieces of Flesh and Blood content intended for primarly new players (but not exclusivley). The main projects will be:
 
-1. <b>Buyer guides<\b> for different heroes, including the most important legendaries for when buying on a budget.
+1. <b>Buyer guides</b> for different heroes, including the most important legendaries for when buying on a budget.
     
-2. <b>Regular "danger" ratings<\b> for how likely heroes are to rotate via the living legend system.
+2. <b>Regular "danger" ratings</b> for how likely heroes are to rotate via the living legend system.
     
-3. <b>Living legend updates<\b>.
+3. <b>Living legend updates</b>.
 
-4. <b>Decklists<\b>, <b>meta reports<\b>, and (potentially) <b>tournament reports<\b>.
+4. <b>Decklists</b>, <b>meta reports</b>, and (potentially) <b>tournament reports</b>.
 
 I hope you find something useful!
