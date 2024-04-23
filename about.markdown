@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Thank you for visiting fabdachi.com! I will be creating a number of different pieces of Flesh and Blood content intended for primarly new players (but not exclusivley). The main projects will be:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. <b>Buyer guides</b> for different heroes, including the most important legendaries for when buying on a budget.
+    
+2. <b>Regular "danger" ratings</b> for how likely heroes are to rotate via the living legend system.
+    
+3. <b>Living legend updates</b>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+4. <b>Decklists</b>, <b>meta reports</b>, and (potentially) <b>tournament reports</b>.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I hope you find something useful!
